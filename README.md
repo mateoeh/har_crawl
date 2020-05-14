@@ -1,3 +1,5 @@
+![Example](https://imgur.com/c6nsCai.jpg)
+
 # har\_crawl
 
 `har_crawl` lets you generate a documentation skeleton for a JSON API, listing
